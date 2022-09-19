@@ -36,7 +36,7 @@ a{
     height: 350px;
     width: 22px
 }
-..container{
+.container{
     width: 1320px;
     max-width: 100%;
     margin: 0 auto;
